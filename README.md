@@ -2,7 +2,7 @@ Test Repo
 ==============================
 [//]: # (Badges)
 [![Travis Build Status](https://travis-ci.org/pwrose/test_repo.png)](https://travis-ci.org/pwrose/test_repo)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/Test Repo/branch/master)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/6daqeaj33ext6uea/branch/master?svg=true)](https://ci.appveyor.com/project/pwrose/test-repo/branch/master)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Test Repo/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Test Repo/branch/master)
 
 A test project for using cookiecutter
